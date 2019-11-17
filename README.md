@@ -1,6 +1,7 @@
+# MIN的杂货铺
+
 ## Welcome to Min's Stand
 
-# MIN的杂货铺
 欢饮来到MIN的杂货铺
 这里有各种学习资料
 并不断更新中
